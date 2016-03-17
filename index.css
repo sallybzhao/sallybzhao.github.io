@@ -1,0 +1,20 @@
+
+
+.posts {
+    background-color: grey;
+    color: white;
+    border-color: blue;
+    border-width: 4px;
+    border-style: solid;
+    font-size: 150%;
+    font-family: "Georgia";
+    padding: 20px;
+    margin: 15px;
+
+}
+
+#aboutMe {
+    font-size: 300%;
+    color: yellow;
+
+}
